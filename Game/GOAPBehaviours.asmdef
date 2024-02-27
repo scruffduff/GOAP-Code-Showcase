@@ -1,0 +1,16 @@
+{
+    "name": "FacepunchDemo.Game",
+    "rootNamespace": "FacepunchDemo.Game",
+    "references": [
+        "FacepunchDemo.GOAP"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
